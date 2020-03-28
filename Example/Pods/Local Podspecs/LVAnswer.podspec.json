@@ -1,0 +1,22 @@
+{
+  "name": "LVAnswer",
+  "version": "0.1.0",
+  "summary": "A short description of LVAnswer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wenchao8023/LVAnswer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wenchao8023": "18539272718@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wenchao8023/LVAnswer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LVAnswer/Classes/**/*"
+}

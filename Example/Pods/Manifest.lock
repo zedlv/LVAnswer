@@ -1,0 +1,16 @@
+PODS:
+  - LVAnswer (0.1.0)
+
+DEPENDENCIES:
+  - LVAnswer (from `../`)
+
+EXTERNAL SOURCES:
+  LVAnswer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LVAnswer: 3028fa71b696be0c2356758f5071d844cf683b7c
+
+PODFILE CHECKSUM: 532c2e8ceffca17a7b93aecf438bf8b4abfe1321
+
+COCOAPODS: 1.9.1

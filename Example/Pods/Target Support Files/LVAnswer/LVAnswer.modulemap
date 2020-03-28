@@ -1,0 +1,6 @@
+framework module LVAnswer {
+  umbrella header "LVAnswer-umbrella.h"
+
+  export *
+  module * { export * }
+}
